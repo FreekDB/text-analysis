@@ -1,0 +1,1 @@
+Adding a file, just to be able to delete it again. My goal is to see how removed files are shown in the GitHub commit.
